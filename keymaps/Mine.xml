@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
@@ -122,6 +125,7 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="PreviousTemplateVariable" />
+  <action id="QuickChangeScheme" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
